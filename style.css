@@ -39,6 +39,7 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 text-align: center;
+gap: 1rem;
 
 
 
@@ -50,6 +51,7 @@ text-align: center;
 width: 100%;
 height: auto;
  border-radius:0.75rem ;
+ 
  
  
 }
